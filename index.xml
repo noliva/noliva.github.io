@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title> on My New Hugo Site </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Sat, 19 Sep 2015 15:11:07 BST</updated>
+    
+    <item>
+      <title>first</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Sat, 19 Sep 2015 15:11:07 BST</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>&lt;p&gt;probando hugo&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 19 Sep 2015 14:49:52 BST</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;testing hugo&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
